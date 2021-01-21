@@ -10,5 +10,6 @@ public class Main {
         //Root change successful!
         System.out.println("Lautaro Cuevas - Software Architect");
         System.out.println("Zak Shaik - Operating Officer");
+        System.out.println("Jared Shongwe - Project Manager");
     }
 }
