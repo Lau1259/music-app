@@ -1,0 +1,7 @@
+include ':autho-lib'
+include ':spotify-auth-release-1.2.3'
+include ':auth-lib'
+include ':auth-sample'
+include ':spotify-app-remote-release-0.7.1'
+include ':app'
+rootProject.name = "My Application"
