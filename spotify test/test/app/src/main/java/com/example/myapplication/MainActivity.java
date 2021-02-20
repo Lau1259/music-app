@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
     // These details are from a test app I registered on the the Spotify developers site
     private static final String CLIENT_ID = "aad5ee5005c147d785f5b68ba719b41f";
-    private static final String CLIENT_SECRET = "cef75d37b09d438fa8a2608bf55324db";
     private static final String REDIRECT_URI = "test://callback";
     private SpotifyAppRemote mSpotifyAppRemote;
     private static final int REQUEST_CODE = 1998;
